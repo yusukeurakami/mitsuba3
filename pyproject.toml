@@ -1,0 +1,10 @@
+[project]
+name = "mitsuba3"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "drjit>=1.2.0",
+    "mitsuba>=3.7.1",
+]
